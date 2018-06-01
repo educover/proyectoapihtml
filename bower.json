@@ -1,0 +1,21 @@
+{
+  "name": "proyectoapihtml",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edu Alcover <alcover.edu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/educover/proyectoapihtml",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
